@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/6bdbdf79-0da2-4e68-967c-cf564c7b2b4f)
+
+
+
+
+
 -¡Hola! Mi nombre es Jorge Arturo Cruz Santibáñez, soy Ingeniero Mecánico Automotriz de profesión, perito en materia de Mecánica Automotriz en la
 Procuraduría General de Justicia del Estado de Hidalgo. 🕵️
 
