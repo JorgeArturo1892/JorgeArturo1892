@@ -15,3 +15,11 @@ gran carrera.
 - Además, me encanta mucho leer filosofía y temáticas sociales, así como pasar tiempo con mi mascota y no me pierdo los partidos de la NFL.
 
 - ¿Te interesa contactarme? 📧 j.arturo1892@gmail.com, 📫 www.linkedin.com/in/jorge-cruz-b443a5310
+
+## HABILIDADES
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,py,vscode" />
+  </a>
+</p>
