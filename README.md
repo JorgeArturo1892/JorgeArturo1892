@@ -4,7 +4,7 @@
 
 
 
--¡Hola! Mi nombre es Jorge Arturo Cruz Santibáñez, soy Ingeniero Mecánico Automotriz de profesión, perito en materia de Mecánica Automotriz en la
+- ¡Hola! Mi nombre es Jorge Arturo Cruz Santibáñez, soy Ingeniero Mecánico Automotriz de profesión, perito en materia de Mecánica Automotriz en la
 Procuraduría General de Justicia del Estado de Hidalgo. 🕵️
 
 - Actualmente me encuentro más allá de la mitad del camino a ser Analista de Datos, estudiando el Bootcamp de Data Analyst de TripleTen, y me encuentro ansioso de poder demostrar ante el mundo
