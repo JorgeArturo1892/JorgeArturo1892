@@ -20,7 +20,7 @@ gran carrera.
 
 - Además, me encanta mucho leer filosofía y temáticas sociales, así como pasar tiempo con mi mascota y no me pierdo los partidos de la NFL.
 
-- ¿Te interesa contactarme? 📧 j.arturo1892@gmail.com, 📫 www.linkedin.com/in/jorge-cruz-b443a5310
+- ¿Te interesa contactarme? 📧 j.arturo1892@gmail.com, 📫 www.linkedin.com/in/jorge-cruz-dataanalyst
 
 ## HABILIDADES
 
