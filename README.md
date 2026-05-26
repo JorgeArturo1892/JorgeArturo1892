@@ -10,7 +10,7 @@
   
 - Los idiomas me fascinan, domino el inglés en un nivel avanzado y aprendí alemán hasta un nivel básico/intermedio, ya que son de los idiomas de la ingeniería y de la tecnología. 🧑‍💻
 
-- Tengo interés en continuar aprendiendo del mundo de TI, así que también cuento con certificaciones de Google Data Analytics, Google Advanced Data Analytics, Google Project Management, ServiceNow Technical Project Manager, y actualmente curso la certificació profesional de IBM Program Manager.
+- Tengo interés en continuar aprendiendo del mundo de TI, así que también cuento con certificaciones de Google Data Analytics, Google Advanced Data Analytics, Google Project Management, ServiceNow Technical Project Manager, y actualmente curso la certificación profesional de IBM Program Manager.
 
 - Además, me encanta mucho leer filosofía y temáticas sociales, así como pasar tiempo con mi mascota y no me pierdo los partidos de la NFL.
 
