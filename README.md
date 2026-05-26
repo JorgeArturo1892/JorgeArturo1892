@@ -4,19 +4,13 @@
 
 
 
-- ¡Hola! Mi nombre es Jorge Arturo Cruz Santibáñez, soy Ingeniero Mecánico Automotriz de profesión, perito en materia de Mecánica Automotriz en la
-Procuraduría General de Justicia del Estado de Hidalgo. 🕵️
-
-- Actualmente me encuentro más allá de la mitad del camino a ser Analista de Datos, estudiando el Bootcamp de Data Analyst de TripleTen, y me encuentro ansioso de poder demostrar ante el mundo
-las habilidades que he aprendido. 💻
+- ¡Hola! Mi nombre es Jorge Arturo Cruz Santibáñez, soy Ingeniero Mecánico Automotriz de profesión, Data Analyst II en Astreya Prtners LLC.
 
 - Tengo experiencia con las librerías Pandas, NumPy, Matplotlib, Seaborn, Math, Scipy, entre otras, así como el uso de SQL, CLI, Anaconda y Visual Studio Code. 💻
+  
+- Los idiomas me fascinan, domino el inglés en un nivel avanzado y aprendí alemán hasta un nivel básico/intermedio, ya que son de los idiomas de la ingeniería y de la tecnología. 🧑‍💻
 
-- Los idiomas me fascinan, domino el inglés en un nivel avanzado y aprendí alemán hasta un nivel básico/intermedio, ya que son de los idiomas de la
-ingeniería y de la tecnología. 🧑‍💻
-
-- Tengo interés en continuar aprendiendo del mundo de TI, así que los conocimientos adquiridos y por adquirir en mi Bootcamp, son sólo el comienzo de esta
-gran carrera.
+- Tengo interés en continuar aprendiendo del mundo de TI, así que también cuento con certificaciones de Google Data Analytics, Google Advanced Data Analytics, Google Project Management, ServiceNow Technical Project Manager, y actualmente curso la certificació profesional de IBM Program Manager.
 
 - Además, me encanta mucho leer filosofía y temáticas sociales, así como pasar tiempo con mi mascota y no me pierdo los partidos de la NFL.
 
