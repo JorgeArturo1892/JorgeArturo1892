@@ -4,7 +4,7 @@
 
 
 
-- ¡Hola! Mi nombre es Jorge Arturo Cruz Santibáñez, soy Ingeniero Mecánico Automotriz de profesión, Data Analyst II en Astreya Prtners LLC.
+- ¡Hola! Mi nombre es Jorge Arturo Cruz Santibáñez, soy Ingeniero Mecánico Automotriz de profesión, Data Analyst II en Astreya Partners LLC.
 
 - Tengo experiencia con las librerías Pandas, NumPy, Matplotlib, Seaborn, Math, Scipy, entre otras, así como el uso de SQL, CLI, Anaconda y Visual Studio Code. 💻
   
